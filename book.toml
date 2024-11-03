@@ -1,0 +1,12 @@
+[book]
+authors = ["Andreas Wallner"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rust Teaser"
+
+[output.html.playground]
+editable = true
+
+[output.html]
+mathjax-support = true
