@@ -5,4 +5,4 @@
 - [Fibonacci](./fibonacci.md)
 - [Collatz Sequenz](./collatz.md)
 - [Matrix Transpose](./matrix.md)
-- [Lift Simulator](./elevator.md)
+- [RPN Rechner](./rpn.md)

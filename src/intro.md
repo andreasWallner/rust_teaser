@@ -9,7 +9,7 @@ editiert werden.
 Die Beispiele enthalten Kommentare an Stellen die Aufgaben stellen, oder `todo!()`s wenn
 eine Funktion fertiggestellt werden soll.
 
-Sollte der Rust-Playground gerade down sein (leider öfter die letzten Tage), bitte [Rust Explorer](https://www.rustexplorer.com/b) verwenden.
+Sollte der Rust-Playground gerade down sein (leider öfter die letzten Tage), bitte [Rust Explorer](https://www.rustexplorer.com/b) verwenden. Kann man allerdings auch generell verwenden, ist netter zum editieren und benutzen als die eingebauten Codeblöcke.
 
 Erinnerung: `println!("{:?}", ...)` und `dbg!(...)` können zum Ausgeben von vielen Typen verwendet werden.
 
