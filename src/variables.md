@@ -9,6 +9,7 @@ Zum Ausprobieren:
 - müssen Typen angegeben werden?
 - was passiert wenn die typen weggelassen werden?
 - wie können Datentypen angegeben werden (bei deklaration, bei literals)
+- ist das Bilden einer Summe nicht in der [Standardlibrary](https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.sum) vorhanden?
 
 Siehe auch: [Rust Book](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html)
 

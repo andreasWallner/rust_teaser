@@ -13,7 +13,7 @@ Schreibe eine Funktion welche die Länge der Collatz-Sequenz für einen gegebene
 Hinweis: ``while some_condition { ... }`` ist der syntax einer while Schleife, ``loop { ... }`` macht eine Endlosschleife. Siehe auch [Rust Book](https://doc.rust-lang.org/book/ch03-05-control-flow.html)
 
 Zum Ausprobieren:
-- sowohl eine Lösung mit Schleife oder eine rekursive sind möglich...
+- sowohl eine Lösung mit Schleife oder eine mittels Rekursion sind möglich...
 
 ```rust,ignore
 fn collatz_length(n: u32) -> usize {

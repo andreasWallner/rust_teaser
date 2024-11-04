@@ -1,6 +1,6 @@
 # Matrix Transpose
 
-Arrays können - wie zu erwarten - arrays beinhalten.
+Arrays können - wie zu erwarten - auch arrays beinhalten.
 
 ``let array = [[1,2,3], [4,5,6], [7,8,9]];``
 
